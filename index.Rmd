@@ -2,7 +2,7 @@
 title: "index"
 author: "Jon Downs"
 date: '2022-06-27'
-output: github_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
