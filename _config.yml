@@ -22,6 +22,7 @@ gh_edit_repository: "https://github.com/DOH-jpd2303/codingIX" # EDIT: ADD THE UR
 
 
 gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_source: docs
 gh_edit_view_mode: "tree"
 
 # Include plugins for relative links and a remote theme
