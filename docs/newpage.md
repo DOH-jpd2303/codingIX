@@ -1,5 +1,6 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+layout: post
+title: "POST TITLE"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
 
-this is new
+my post is here
