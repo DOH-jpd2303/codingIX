@@ -1,4 +1,6 @@
 # codingIX
+Etsy. 
+
 Code and Rmarkdowns to share my interview question work. **bold**
 This is my doing stuff.
 
